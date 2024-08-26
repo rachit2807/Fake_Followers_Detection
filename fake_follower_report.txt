@@ -1,0 +1,39 @@
+
+    Fake Follower Analysis Report
+    -----------------------------
+    Total Followers Analyzed: 100
+    Potential Fake Followers: 24
+    Percentage of Fake Followers: 24.00%
+    
+    Criteria Used for Detection:
+    1. Engagement Rate < 0.005
+    2. Follower/Following Ratio > 2.0
+    3. Account Age < 30 days
+
+    List of Potential Fake Followers:
+     follower_id  follower_count  following_count  average_likes  average_comments  account_age_days  engagement_rate  is_fake
+           7            3221             1038              0                13              2522         0.004036     True
+           8            2969              512             10                 2              2480         0.004042     True
+          12            2441              216             49                 2              1313         0.020893     True
+          16            3435              573             41                 7              2071         0.013974     True
+          18            4893             1767              6                17              2570         0.004701     True
+          22            2608             1069              1                 1              3252         0.000767     True
+          29            3055             3070              8                 6              1349         0.004583     True
+          34            3252             1991              2                 6              1783         0.002460     True
+          35            3606             1673             19                 3              2306         0.006101     True
+          36            3940             1539             23                12               497         0.008883     True
+          44            2091              719             83                18              2428         0.048302     True
+          49            2606              673             92                16              1637         0.041443     True
+          53            3202             1505             53                14              1192         0.020924     True
+          56            3993             1863             60                 0               285         0.015026     True
+          58            1071             1301             99                11                12         0.102708     True
+          61            3893             1646             32                 6              3325         0.009761     True
+          65            4347              708             19                19              2775         0.008742     True
+          69            3392              864             16                19              2653         0.010318     True
+          71            3848             1717             47                12              1626         0.015333     True
+          76            1126              212             29                18              3268         0.041741     True
+          87            2745              618             27                 0              3069         0.009836     True
+          94            3149              669              3                18              2240         0.006669     True
+          96            4925             1379             63                13              1123         0.015431     True
+          98            4648              156             16                14               978         0.006454     True
+    
